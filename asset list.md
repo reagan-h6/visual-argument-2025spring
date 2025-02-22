@@ -5,3 +5,4 @@
 |deforestation image| Bucataru, G. (2023). Deforestation . https://unsplash.com/photos/a-forest-filled-with-lots-of-tall-trees-Rg4j61swBbE. |
 |ice cap image| Clairette, A. (2018b). Iceland . https://unsplash.com/photos/landscape-photo-of-ice-burgs-lf23VR1z4dU.|
 | fish |Szűts, G. (2019, October 22). Green Fish . https://unsplash.com/photos/shallow-focus-photo-of-green-fish-uu8sDKvTx-g |
+|cow| Screenroad. (2019). Cow in Styria Austria . Retrieved from https://unsplash.com/photos/black-and-white-cow-standing-on-grass-field-FquDp5N1Gw0. | 
